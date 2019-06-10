@@ -1,4 +1,5 @@
 ---
+layout: page
 name: Laurent Heirendt
 position: Research Associate
 ---

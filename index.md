@@ -4,7 +4,7 @@ Here is a list of course attendees:
 
 {% for attendee in site.attendees %}
   <h2>
-  {{ forloop.index }}.<a href="{{ site.url }}{{ attendee.url }}">
+  {{ forloop.index }}.<a href="{{ attendee.url | prepend: site.baseurl }}">
       {{ attendee.name }} - {{ attendee.position }}
     </a>
   </h2>
