@@ -2,11 +2,11 @@
 
 Here is a list of course attendees:
 
-{% for staff_member in site.staff_members %}
+{% for attendee in site.attendees %}
   <h2>
-    <a href="{{ staff_member.url }}">
-      {{ staff_member.name }} - {{ staff_member.position }}
+  {{ forloop.index }}.<a href="{{ attendee.url }}">
+      {{ attendee.name }} - {{ attendee.position }}
     </a>
   </h2>
-  <p>{{ staff_member.content | markdownify }}</p>
+  <p>{{ attendee.content | markdownify }}</p>
 {% endfor %}
