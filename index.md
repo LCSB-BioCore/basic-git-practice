@@ -1,6 +1,12 @@
-# How to get started?
+# R3.school - Basic git course
 
-Here is a list of course attendees:
+## How to get started?
+
+Follow carefully the instructions given during the course.
+
+**Goal**: add your personal page to this site!
+
+## List of course attendees
 
 {% for attendee in site.attendees %}
   <h2>
