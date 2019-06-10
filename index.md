@@ -8,5 +8,4 @@ Here is a list of course attendees:
       {{ attendee.name }} - {{ attendee.position }}
     </a>
   </h2>
-  <p>{{ attendee.content | markdownify }}</p>
 {% endfor %}
