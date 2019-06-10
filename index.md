@@ -1,10 +1,7 @@
-# R3.school - Basic git course
-
 ## How to get started?
 
-Follow carefully the instructions given during the course.
-
 **Goal**: add your personal page to this site!
+
 
 ## List of course attendees
 
