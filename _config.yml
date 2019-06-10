@@ -4,3 +4,4 @@ title: Basic git training - Practice repository
 description: This is a practice repository for basic git training.
 collections:
   attendees:
+    output: true
