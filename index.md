@@ -1,6 +1,8 @@
-## How to get started?
+## What is this?
 
-**Goal**: add your personal page to this site!
+This page is an automatically generated page of the course attendees.
+
+Add your name and your **personal page** to this site!
 
 
 ## List of course attendees
