@@ -1,5 +1,5 @@
 ---
-name: Jane Doe
-position: Developer
+name: Laurent Heirendt
+position: Research Associate
 ---
-Jane has worked on Jekyll for the past *five years*.
+Laurent is a research associate in the BioCore group at the LCSB.
