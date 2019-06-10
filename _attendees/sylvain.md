@@ -12,6 +12,6 @@ ghimg: https://avatars2.githubusercontent.com/u/816318
 
 # {{ page.name }}
 
-{{ page.name }} is a {{ page.position | downcase }} in the {{ page.group }} at the {{ page.institution }}.
+{{ page.name }} is a {{ page.position | downcase }} at { page.institution }}.
 
 <a href="{{ site.baseurl }}">back</a>
