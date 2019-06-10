@@ -54,7 +54,7 @@ If you now browse to your fork on Github, you can open a pull request and submit
 
 :warning: Please make sure to select `develop` as the target branch.
 
-:warning: Watch out for comments from the reviewer! If there are things to be chaned, simply change locally, commit,
+:warning: Watch out for comments from the reviewer! If there are things to be changed, simply change locally, commit,
 and then push again. The pull-request will update automatically.
 
 Once the pull request has been accepted, you will be able to see your page online! :tada:
