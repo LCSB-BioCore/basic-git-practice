@@ -5,9 +5,9 @@
 ## How to get started?
 
 - Fork this repository by clicking on the `Fork` button on the top right of this page.
-- Clone your forked repository.
+- Clone your forked repository to your local computer.
 
-:warning: make sure that you have your SSH key and `git` properly configured.
+:warning: **Make sure that you have your SSH key and `git` properly configured**.
 
 ```bash
 $ git clone git@github.com:<yourName>/basic-git-practice.git
@@ -17,12 +17,11 @@ $ git clone git@github.com:<yourName>/basic-git-practice.git
 
 The development scheme is based on a stable `master` branch and a development branch named `develop`.
 
-In order to make your changes, create your own branch from `develop`:
-
+Before making changes, create your own branch from `develop`:
 ```bash
 $ cd basic-git-practice
 $ git checkout develop # this switches the branch to develop
-$ git checkout -b myBranch
+$ git checkout -b myBranch # this checks out a new branch called myBranch
 ```
 
 ## Make your changes
@@ -34,7 +33,7 @@ $ cd _attendees
 $ cp template.md myName.md
 ```
 
-Then, make your changes!
+Then, make your changes with your favorite editor!
 
 ## Commit your changes and push
 
@@ -56,6 +55,4 @@ If you now browse to your fork on Github, you can open a pull request and submit
 :warning: Watch out for comments from the reviewer! If there are things to be chaned, simply change locally, commit,
 and then push again. The pull-request will update automatically.
 
-Once the pull request has been accepted, you will be able to see your page online!
-
-
+Once the pull request has been accepted, you will be able to see your page online! :tada:
