@@ -5,7 +5,7 @@ position: Position
 group: BioCore Group
 institution: LCSB
 ghurl: https://github.com/devrimgl
-ghimg: https://avatars0.githubusercontent.com/u/767865
+ghimg: https://avatars2.githubusercontent.com/u/767865?s=40&v=4
 ---
 
 <a href="{{ page.ghurl }}"><img src="{{ page.ghimg }}" height="150px"/></a>
