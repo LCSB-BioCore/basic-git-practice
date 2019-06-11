@@ -1,8 +1,8 @@
 ---
 layout: default
-name: Firstname Lastname
-position: Position
-group: GroupName
+name: Melanie Sengupta  
+position: PhD
+group: LCSB
 institution: University of Luxembourg
 ghurl: https://github.com/<yourUserName>
 ghimg: https://avatars2.githubusercontent.com/u/44060023
