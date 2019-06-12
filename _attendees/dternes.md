@@ -4,8 +4,8 @@ name: Dominik Ternes
 position: PhD student
 group: LSRU
 institution: University of Luxembourg
-ghurl: https://github.com/<yourUserName>
-ghimg: https://avatars2.githubusercontent.com/u/44060023
+ghurl: https://github.com/dternes/
+ghimg: https://avatars1.githubusercontent.com/u/25485035
 ---
 
 <a href="{{ page.ghurl }}"><img src="{{ page.ghimg }}" height="150px"/></a>
