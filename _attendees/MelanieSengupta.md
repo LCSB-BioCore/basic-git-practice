@@ -2,10 +2,10 @@
 layout: default
 name: Melanie Sengupta
 position: Doctoral student
-group: LCSB
+group: LCSB ICS
 institution: University of Luxembourg
-ghurl: https://github.com/<MelanieSengupta>
-ghimg: https://avatars2.githubusercontent.com/u/44060023
+ghurl: https://github.com/MelanieSengupta
+ghimg: https://avatars3.githubusercontent.com/u/51644916
 ---
 
 <a href="{{ page.ghurl }}"><img src="{{ page.ghimg }}" height="150px"/></a>
