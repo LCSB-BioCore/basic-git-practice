@@ -1,11 +1,11 @@
 ---
 layout: default
 name: Kartikeya Singh
-position: PhD 
+position: PhD
 group: Comp Bio
 institution: LCSB
-ghurl: https://github.com/<yourUserName>
-ghimg: https://avatars2.githubusercontent.com/u/44060023
+ghurl: https://github.com/Kartikeya-Singh
+ghimg: https://avatars2.githubusercontent.com/u/51696163
 ---
 
 <a href="{{ page.ghurl }}"><img src="{{ page.ghimg }}" height="150px"/></a>

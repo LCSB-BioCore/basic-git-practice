@@ -4,8 +4,8 @@ name: Jil Fischbach
 position: Administrative Staff
 group: GroupName
 institution: University of Luxembourg
-ghurl: https://github.com/<yourUserName>
-ghimg: https://avatars2.githubusercontent.com/u/44060023
+ghurl: https://github.com/jil-fischbach
+ghimg: https://avatars3.githubusercontent.com/u/51703821?s=460&v=4
 ---
 
 <a href="{{ page.ghurl }}"><img src="{{ page.ghimg }}" height="150px"/></a>

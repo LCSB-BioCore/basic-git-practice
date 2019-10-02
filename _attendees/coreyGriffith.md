@@ -4,8 +4,8 @@ name: Corey Griffith
 position: Postdoc
 group: Enzymology & Metabolism
 institution: University of Luxembourg
-ghurl: https://github.com/<yourUserName>
-ghimg: https://avatars2.githubusercontent.com/u/44060023
+ghurl: https://github.com/coreymgriffith
+ghimg: https://avatars1.githubusercontent.com/u/51710095
 ---
 
 <a href="{{ page.ghurl }}"><img src="{{ page.ghimg }}" height="150px"/></a>

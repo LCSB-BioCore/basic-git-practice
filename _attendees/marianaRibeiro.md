@@ -5,7 +5,7 @@ position: PhD Candidate
 group: Computational Biology
 institution: University of Luxembourg
 ghurl: https://github.com/rmariana
-ghimg: https://avatars2.githubusercontent.com/u/44060023
+ghimg: https://avatars2.githubusercontent.com/u/36707331
 ---
 
 <a href="{{ page.ghurl }}"><img src="{{ page.ghimg }}" height="150px"/></a>
