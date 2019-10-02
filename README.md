@@ -26,11 +26,11 @@ $ git checkout -b myBranch # this checks out a new branch called myBranch
 
 ## Make your changes
 
-Copy the file `template.md` in the folder `_attendees` and rename it with your firstname:
+Copy the file `firstnameLastname.md` in the folder `_attendees` and rename it with your first and last names:
 
 ```bash
 $ cd _attendees
-$ cp template.md myName.md
+$ cp firstnameLastname.md myFirstnameMyLastname.md
 ```
 
 Then, make your changes with your favorite editor!
@@ -39,8 +39,8 @@ Then, make your changes with your favorite editor!
 
 When you are done editing your file, add the file to the stage and commit it:
 ```bash
-$ git add myName.md
-$ git commit -m "Edit the content of the subpage myName.md"
+$ git add myFirstnameMyLastname.md
+$ git commit -m "Edit the content of the subpage myFirstnameMyLastname"
 ```
 
 Once you are done committing, you can push your branch to your fork:
