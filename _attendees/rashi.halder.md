@@ -1,7 +1,7 @@
 ---
 layout: default
-name: Firstname Lastname
-position: Position
+name: Rashi Halder
+position: Research Associate
 group: GroupName
 institution: University of Luxembourg
 ghurl: https://github.com/<yourUserName>
