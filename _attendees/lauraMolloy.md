@@ -1,9 +1,9 @@
 ---
 layout: default
-name: Michael Jackson
+name: Laura Molloy
 position: Position
 group: GroupName
-institution: University of Luxembourg
+institution: University of Oxford
 ghurl: https://github.com/<yourUserName>
 ghimg: https://avatars2.githubusercontent.com/u/44060023
 ---
