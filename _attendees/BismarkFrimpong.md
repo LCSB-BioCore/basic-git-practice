@@ -4,7 +4,7 @@ name: Bismark Frimpong
 position: Position
 group: GroupName
 institution: University of Luxembourg
-ghurl: https://github.com/<yourUserName>
+ghurl: https://github.com/bismark39
 ghimg: https://avatars2.githubusercontent.com/u/44060023
 ---
 
