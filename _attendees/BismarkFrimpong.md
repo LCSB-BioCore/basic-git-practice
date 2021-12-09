@@ -1,11 +1,11 @@
 ---
 layout: default
 name: Bismark Frimpong
-position: Position
-group: GroupName
-institution: University of Luxembourg
-ghurl: https://github.com/<yourUserName>
-ghimg: https://avatars2.githubusercontent.com/u/44060023
+position: Student (Adiminstrative Support)
+group: BioCore group
+institution: LCSB, University of Luxembourg
+ghurl: https://github.com/bismark39
+ghimg: https://avatars.githubusercontent.com/bismark39
 ---
 
 <a href="{{ page.ghurl }}"><img src="{{ page.ghimg }}" height="150px"/></a>
