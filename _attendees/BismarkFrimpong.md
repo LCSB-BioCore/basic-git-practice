@@ -1,7 +1,7 @@
 ---
 layout: default
 name: Bismark Frimpong
-position: Student (Adiminstrative Support)
+position: Student (Administrative Support)
 group: BioCore group
 institution: LCSB, University of Luxembourg
 ghurl: https://github.com/bismark39
